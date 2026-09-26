@@ -63,11 +63,11 @@ Performed business queries including:
 
 ### Customer Behavior Dashboard
 
-![Dashboard 1](Images/Customer Behavior Dashboard.png)
+![Customer Behavior Dashboard](Images/Customer%20Behavior%20Dashboard.png)
 
 ### Customer Purchase & Promotion Insights
 
-![Dashboard 2](Images/Customer Purchase & Promotion Insights.png)
+![Customer Purchase & Promotion Insights](Images/Customer%20Purchase%20%26%20Promotion%20Insights.png)
 
 ---
 
